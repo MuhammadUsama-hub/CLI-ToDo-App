@@ -1,4 +1,4 @@
-#! usr/bin/env node 
+#! /usr/bin/env node 
 import inquirer from "inquirer";
 //array of Objetcts
 let taskList: { [x: string]: string }[] = [];
